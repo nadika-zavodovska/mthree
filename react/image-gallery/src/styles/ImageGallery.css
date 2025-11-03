@@ -1,0 +1,18 @@
+.gallery-img {
+    max-width: 90%;
+    cursor: pointer;
+    box-shadow: 0 6px 12px rgba(44, 44, 44, 0.3);
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+.gallery-btn {
+    background-color: rgb(2, 79, 194);
+    transition: background-color 0.9s ease;
+    color: #fff;
+    margin-right: 10px;
+}
+
+.gallery-btn:hover {
+    background-color: rgb(43, 115, 223);
+}
